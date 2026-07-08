@@ -1,0 +1,388 @@
+{
+    "meta": {
+        "theme": "art-school-modern"
+    },
+    "basics": {
+        "name": "Stephen Roille",
+        "label": "Software Engineer",
+        "image": "https://avatars.githubusercontent.com/u/36302072",
+        "summary": "I am a full stack developer, a Python enthusiast, and an AI practioner. I love software craftmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
+        "url": "https://example.com",
+        "email": "stephen.roille@gmail.com",
+        "location": {
+            "postalCode": "CH-5600",
+            "city": "Lenzburg",
+            "countryCode": "CH",
+            "region": "Aargau"
+        },
+        "profiles": [
+            {
+                "url": "https://github.com/stephenroille",
+                "username": "stephenroille",
+                "network": "github"
+            }
+        ]
+    },
+    "education": [
+        {
+            "startDate": "2016-11-01",
+            "endDate": "2021-01-31",
+            "area": "Ultrafast Spectroscopy",
+            "studyType": "Doctorate",
+            "institution": "The Institute of Applied Physics Bern, Switzerland",
+            "url": "https://www.iap.unibe.ch/"
+        },
+        {
+            "startDate": "2016-05-01",
+            "endDate": "2016-10-31",
+            "area": "Physics",
+            "studyType": "Internship",
+            "institution": "The Institute of Applied Physics Bern, Switzerland",
+            "url": "https://www.iap.unibe.ch/"
+        },
+        {
+            "startDate": "2014-08-31",
+            "endDate": "2016-09-01",
+            "area": "Physics and Optical Engineering",
+            "studyType": "Master",
+            "institution": "The University of Le Mans, France",
+            "url": "https://www.univ-lemans.fr/fr/index.html",
+            "courses": [
+                "Acoustics & Opto-Acoustics",
+                "Anisotropic & Non-Linear Optics",
+                "Atomic & Molecular Physics",
+                "Crystallography",
+                "Data Acquisition",
+                "Holography & Interferometry",
+                "Instrumental Optics",
+                "Quality Management (ISO 9000)",
+                "Light Diffraction & Diffusion Phenomena (Advanced)",
+                "Linear Microscopy",
+                "Magnetism",
+                "Material Properties & Symmetries",
+                "Mathematical Methods for Physicists",
+                "Micro-Technologies",
+                "Nano-Sciences & Nano-Photonics",
+                "Numerical Methods for Physicists",
+                "Optical Sensors",
+                "Optics & Wave Propagation",
+                "Quantum Mechanics",
+                "Signal Processing (Advanced)",
+                "Solid State Physics & Semiconductors",
+                "Spectroscopic Methods",
+                "Statistical Physics",
+                "Wave Propagation in Solids"
+            ]
+        },
+        {
+            "startDate": "2010-09-01",
+            "endDate": "2013-08-31",
+            "area": "Physics, Chemistry, and Mathematics",
+            "studyType": "Bachelor",
+            "institution": "The University of Le Mans, France",
+            "url": "https://www.univ-lemans.fr/fr/index.html",
+            "courses": [
+                "Analytical & Quantum Mechanics",
+                "Atoms: Structure & Properties",
+                "Biodiversity",
+                "Classical Mechanics",
+                "Classical Thermodynamics",
+                "Crystals: Molecular Architecture & Chemical Bonds",
+                "Electromagnetism",
+                "Electronics",
+                "Experimental Physics",
+                "Fluid Statistics",
+                "Fourier Optics",
+                "Information & Communication",
+                "Introduction to Programming",
+                "Linear Algebra",
+                "Material Characterization and Symmetry",
+                "Mathematical Analysis",
+                "Mathematical Methods for Physicists",
+                "Nuclear Physics",
+                "Organic & Inorganic Chemistry",
+                "Ray Optics",
+                "Signal Processing",
+                "Simulations of Physical Phenomena",
+                "Solid State Physics",
+                "Solutions: Chemical Equilibrium & Reactions",
+                "State Chemistry",
+                "Statistical Thermodynamics",
+                "Wave Optics"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "reference": "Personal praise. Why did you like working with me? And why should a company hire me?",
+            "name": "Alexander Houben, AI Lead and Former Manager, Siemens Healthineers"
+        },
+        {
+            "reference": "Personal praise. Why did you like working with me? And why should a company hire me?",
+            "name": "Miriam Suter, QA Engineer and Scrum Master, Siemens Healthineers"
+        },
+        {
+            "reference": "Personal praise. Why did you like working with me? And why should a company hire me?",
+            "name": "Marko Peltonen, Senior SW Engineer, Siemens Healthineers"
+        },
+        {
+            "reference": "Personal praise. Why did you like working with me? And why should a company hire me?",
+            "name": "Agnieszka Pazdan, Manager, Siemens Healthineers"
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "CSS",
+                "Dockerfile",
+                "HTML",
+                "JSON",
+                "Markdown",
+                "TOML",
+                "YAML",
+                "HashiCorp Configuration Language (HCL)"
+            ],
+            "level": "",
+            "name": "Domain Specific Languages"
+        },
+        {
+            "keywords": [
+                "Python / pip",
+                "Bash",
+                "Shell",
+                "Powershell",
+                "SQL",
+                "LogQL",
+                "Kusto"
+            ],
+            "level": "",
+            "name": "Programming and Scripting Languages"
+        },
+        {
+            "keywords": [
+                "Flask",
+                "Jinja2",
+                "Streamlit",
+                "FastAPI",
+                "Static Site Generators",
+                "RESTful APIs",
+                "Reveal.js",
+                "Postman"
+            ],
+            "level": "",
+            "name": "Web Development"
+        },
+        {
+            "keywords": [
+                "Surge",
+                "Vercel",
+                "Netlify",
+                "Heroku",
+                "Microsoft Azure",
+                "Digital Ocean",
+                "Terraform"
+            ],
+            "level": "",
+            "name": "Deployment and Hosting"
+        },
+        {
+            "keywords": [
+                "git",
+                "pre-commit framework",
+                "dvc",
+                "GitHub",
+                "GitLab",
+                "Azure DevOps"
+            ],
+            "level": "",
+            "name": "Version Control"
+        },
+        {
+            "keywords": ["MongoDB", "Redis", "SQLite", "PostgreSQL", "Notion"],
+            "level": "",
+            "name": "Databases"
+        },
+        {
+            "keywords": [
+                "Grafana",
+                "OpenTelemetry",
+                "Prometheus",
+                "Fluentbit",
+                "Kubernetes",
+                "Docker / Docker Compose",
+                "restic",
+                "Linux",
+                "Zensical"
+            ],
+            "level": "",
+            "name": "Misc"
+        },
+        {
+            "keywords": ["Jupyter Lab", "VS Code", "Pi"],
+            "level": "",
+            "name": "Editors and Harnesses"
+        },
+        {
+            "keywords": [
+                "Ollama / Ollama.cpp",
+                "LangChain / LangGraph",
+                "Skills",
+                "Model Context Protocol (MCP)",
+                "Agent OS",
+                "Open Knowledge Format (OKF)"
+            ],
+            "level": "",
+            "name": "Artificial Intelligence"
+        },
+        {
+            "keywords": [
+                "Adaptability / Flexibility",
+                "Attentiveness / Dedication",
+                "Collaboration / Teamwork",
+                "Continuous Improvement",
+                "Creative & Structured Thinking",
+                "Curiosity / Open-Mindedness",
+                "Empathy / Honesty",
+                "Pragmatism / Perseverance",
+                "Problem Solving / Tinkering"
+            ],
+            "level": "",
+            "name": "Soft Skills"
+        }
+    ],
+    "work": [
+        {
+            "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best-practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
+            "website": "https://cancercare.siemens-healthineers.com/",
+            "name": "Siemens Healthineers",
+            "location": "Dättwil, Switzerland",
+            "position": "Software Engineer (Platform and Infrastructure)",
+            "startDate": "2024-02-01",
+            "highlights": [
+                "Cloud and On-Premises Monitoring Solutions in Distributed Systems",
+                "Peer-Review / Knowledge Sharing",
+                "Features Implementation / Product Demonstrations",
+                "Software Quality and Life Cycle Management",
+                "Issue and System Verification for Product Release",
+                "Technical Documentation and User Guides",
+                "Remote Technical Support / Investigation / Troubleshooting on Production Systems"
+            ]
+        },
+        {
+            "summary": "Designing and implementing code and algorithms for radiotherapy treatment management and planning applications. Resolving defects in advanced algorithms for medical image analysis. Testing (unit, integration, end-to-end) to ensure software quality. Peer-reviewing code and sharing knowledge across teams. Following design and development processes to ensure accuracy, safety, and compliance with medical software regulations. Documenting development processes and maintaining traceability in accordance with quality management system requirements. Creating and maintening CI/CD pipelines. Collaborating with DevOps engineers to optimize automated test execution within CI/CD pipelines, reducing manual effort and improving release confidence",
+            "website": "https://www.varian.com",
+            "name": "Varian Medical Systems Imaging Laboratory",
+            "location": "Dättwil, Switzerland",
+            "position": "Software Engineer (Applications)",
+            "startDate": "2022-02-01",
+            "endDate": "2024-01-31",
+            "highlights": [
+                "Applications and Algorithms Development",
+                "Peer-Review / Knowledge Sharing",
+                "Software Quality and Life Cycle Management",
+                "Automated Testing in CI/CD Pipelines",
+                "Issue and System Verification for Product Release",
+                "Technical Documentation and User Guides",
+                "Safety and Compliance with Medical Regulations"
+            ]
+        },
+        {
+            "summary": "Designing, developing, testing, documentating, and packaging software. Creating an innovative pulse shaping framework (shapr) to overcome major challenges in the domain of ultrafast spectroscopy. Designing novel data acquisition techniques and data processing algorithms. Managing laboratory equipments and assets (lasers, spectrometers, spatial-light modulators). Maintaining and optimizating high-power femto-second lasers (oscillator, amplificator, strecher, compressor). Investigating light-matter interaction to understand and control the dynamics of energy conversion and transfer in macro-molecules.",
+            "website": "https://www.iap.unibe.ch/",
+            "name": "Institute of Applied Physics",
+            "location": "Bern, Switzerland",
+            "position": "Research & Development (Doctorate)",
+            "startDate": "2016-11-01",
+            "endDate": "2021-01-31",
+            "highlights": [
+                "Research in Applied Physics",
+                "Scientific Computing",
+                "Software Development Life Cycle Management (SDLC)",
+                "Source-Control / Documentation / Testing / Packaging"
+            ]
+        },
+        {
+            "summary": "End-to-end construction of a nonlinear optical parametric amplifier (NOPA) for broadband optical pulse generation. Including research, design, assembly, simulation, and optimization of the system.",
+            "website": "https://www.iap.unibe.ch/",
+            "name": "Institute of Applied Physics",
+            "location": "Bern, Switzerland",
+            "position": "Research Assistant (Internship Program)",
+            "startDate": "2016-05-01",
+            "endDate": "2016-10-01",
+            "highlights": [
+                "Research in Applied Physics",
+                "Physics Literature",
+                "Scientific Computing"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "🏸 Playing Football / Badminton / Squash / Padel / Running / Roller Skating"
+        },
+        {
+            "name": "📚 Reading Books / Blogs / Documentations"
+        },
+        {
+            "name": "🎧 Listening to Music / Podcasts"
+        },
+        {
+            "name": "👩🏻‍💻 Learning Technology / Open-Source / Python / AI"
+        },
+        {
+            "name": "🎮 Playing Video Games / Board Games"
+        }
+    ],
+    "languages": [
+        {
+            "language": "French",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent (speaking and writing)"
+        }
+    ],
+    "projects": [
+        {
+            "name": "shapr",
+            "startDate": "2019-08-27",
+            "endDate": "2021-03-21",
+            "description": "A pure-Python library to push forward scientific progress in ultrafast spectroscopy using pulse shaping techniques via spatial light modulators (SLMs).",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/shapr"
+        },
+        {
+            "name": "andor",
+            "startDate": "2019-10-30",
+            "endDate": "2020-11-26",
+            "description": "A pure-Python library to control the hardware of Andor cameras, spectrographs, and spectrometers. Developed to be integrated with the shapr library.",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/andor"
+        },
+        {
+            "name": "avantes",
+            "startDate": "2019-04-03",
+            "endDate": "2020-11-26",
+            "description": "A pure-Python library to control the hardware of Avantes USB-2 spectrometers. Developed to be integrated with the shapr library.",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/avantes"
+        },
+        {
+            "name": "git-conventional-changelog",
+            "startDate": "2020-03-08",
+            "endDate": "2020-03-08",
+            "description": "A pure-Python command line tool to generate changelogs (.md, .html) from the history of any git repository by following best practices (semantic versioning, keep a Changelog, conventional commit)",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/git-conventional-changelog"
+        },
+        {
+            "name": "module",
+            "startDate": "2019-09-26",
+            "endDate": "2019-12-09",
+            "description": "A Python web application developed to open new ways to do spectroscopy.",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/module"
+        }
+    ]
+}
