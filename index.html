@@ -1,0 +1,656 @@
+<!doctype html>
+<html>
+	<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+
+	<title>Stephen Roille</title>
+
+	<style>
+	body {
+	background: #fff;
+	font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+	line-height: 1.4;
+	margin: 0 0;
+	margin-bottom: 100px;
+}
+em {
+	color: #999;
+}
+p {
+	line-height: 1.6;
+	font-size: 90%;
+}
+
+a {
+	color: #2C85B1;
+	text-decoration: none;
+	font-weight: 400;
+}
+ul {
+	margin-bottom: 0;
+}
+section {
+	margin: 1em 0 2em;
+}
+blockquote {
+	margin: 0;
+	margin-bottom: 1em;
+}
+#resume {
+	margin: 2em 2em 2em 2.5em;
+	max-width: 760px;
+}
+
+/* Resume heading */
+.heading header { 
+
+}
+
+.heading header h1 {
+	font-size: 180%;
+	margin: 0.5em 0;
+	font-weight: 600;
+}
+
+.heading header h2 {
+	font-size: 140%;
+	margin: 0;
+	font-weight: 400;
+}
+
+.heading header .contact .detail {
+	margin: 0 1em 0 0;
+}
+
+.profile {
+	display: inline-block;
+	margin: 0 1em 0 0;
+}
+
+.profile strong,
+.profile span {
+	display: inline-block;
+	margin: 0 1em 0 0;
+}
+/* section / line breaks */
+section h2 {
+	font-size: 140%;
+	margin: 0 0 1em;
+	text-transform: uppercase;
+	color: #BC1B39;
+	font-weight: 400;
+}
+
+/* Experience items */
+.item {
+	margin: 0 0 1em;
+	padding: 0 0 1em;
+	border-bottom: 1px solid #F2EBEC;
+}
+
+.item:last-child {
+	border-bottom: none;
+}
+
+
+.item header h3 {
+	margin: 0.2em 1em 0.2em 0;
+	display: inline-block;
+	font-weight: 600;
+}
+
+.item header a {
+	display: inline-block;
+}
+
+.item .position {
+	font-weight: 600;
+	font-size: 100%;
+	margin: 0.2em 1em 0.2em 0;
+}
+
+.item .startDate,
+.item .endDate {
+	color: #6B6B6B;
+}
+
+.item .highlights {
+	list-style: square;
+	font-size: 90%;
+}
+
+/* skills */
+#skills .item {
+	margin: 0.5em 0;
+	padding: 0 0 0.5em;
+	font-size: 90%;
+}
+
+#skills .item .name {
+	font-weight: 600;
+	display: inline-block;
+	text-transform: uppercase;
+	margin: 0 1em 0 0;
+	width: 23%;
+	vertical-align: top;
+}
+
+#skills .item .keywords {
+	display: inline-block;
+	width: 70%;
+	vertical-align: top;
+}
+
+/* education */
+#education .item {
+	display: inline-block;
+	vertical-align: top;
+	width: 49.5%;
+	border-bottom: 0;
+}
+
+
+
+	</style>
+	<style media="print">
+		body { font-size: 12px; }
+	</style>
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+
+	</head>
+	<body>
+
+	<div id="resume">
+
+	<section class="heading">
+		<header>
+			<h1>Stephen Roille</h1>
+			<div class="contact">
+                    <span class="detail">Lenzburg, Aargau</span>
+				<span class="detail">
+					<a href="mailto:stephen.roille@gmail.com">stephen.roille@gmail.com</a>
+				</span>
+			</div>
+		</header>
+
+
+		<p><p>Prototyper. Builder. Full-stack developer. Python enthusiast. AI practioner. I love software craftmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.</p></p>
+
+			<div class="profile">
+				<strong class="network">
+					github
+				</strong>
+				<span class="username">
+					<a href="https://github.com/stephenroille">stephenroille</a>
+				</span>
+			</div>
+
+	</section>
+
+	<section id="skills">
+		<h2>Skills</h2>
+		<div class="item">
+			<div class="name">
+				Domain Specific Languages
+			</div>
+			<div class="keywords">
+					CSS,
+					Dockerfile,
+					HTML,
+					JSON,
+					Markdown,
+					TOML,
+					YAML,
+					HashiCorp Configuration Language (HCL)
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Programming and Scripting Languages
+			</div>
+			<div class="keywords">
+					Python / pip,
+					Bash,
+					Shell,
+					Powershell,
+					SQL,
+					LogQL,
+					Kusto
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Web Development
+			</div>
+			<div class="keywords">
+					Flask,
+					Jinja2,
+					Streamlit,
+					FastAPI,
+					Static Site Generators,
+					RESTful APIs,
+					Reveal.js,
+					Postman
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Deployment and Hosting
+			</div>
+			<div class="keywords">
+					Surge,
+					Vercel,
+					Netlify,
+					Heroku,
+					Microsoft Azure,
+					Digital Ocean,
+					Terraform
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Version Control
+			</div>
+			<div class="keywords">
+					git,
+					pre-commit framework,
+					dvc,
+					GitHub,
+					GitLab,
+					Azure DevOps
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Databases
+			</div>
+			<div class="keywords">
+					MongoDB,
+					Redis,
+					SQLite,
+					PostgreSQL,
+					Notion
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Misc
+			</div>
+			<div class="keywords">
+					Grafana,
+					OpenTelemetry,
+					Prometheus,
+					Fluentbit,
+					Kubernetes,
+					Docker / Docker Compose,
+					restic,
+					Linux,
+					Zensical
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Editors and Harnesses
+			</div>
+			<div class="keywords">
+					Jupyter Lab,
+					VS Code,
+					Pi
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Artificial Intelligence
+			</div>
+			<div class="keywords">
+					Ollama / Ollama.cpp,
+					LangChain / LangGraph,
+					Skills,
+					Model Context Protocol (MCP),
+					Agent OS,
+					Open Knowledge Format (OKF)
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				Soft Skills
+			</div>
+			<div class="keywords">
+					Agency / Versatility,
+					Adaptability / Flexibility,
+					Attentiveness / Dedication,
+					Collaboration / Teamwork,
+					Continuous Improvement,
+					Creative &amp; Structured Thinking,
+					Curiosity / Open-Mindedness,
+					Empathy / Honesty,
+					Pragmatism / Perseverance,
+					Problem Solving / Tinkering
+			</div>
+		</div>
+	</section>
+
+	<section class="experience">
+		<h2>Experience</h2>
+		<section class="item">
+			<header>
+			</header>
+			<span class="position">
+				Software Engineer (Platform and Infrastructure)
+			</span>
+
+			<span class="startDate">
+				Feb 2024
+			</span>
+			<span class="endDate">
+				- Present
+			</span>
+
+			<div class="summary">
+				<p><p>Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best-practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.</p></p>
+			</div>
+			<ul class="highlights">
+				<li>Cloud and On-Premises Monitoring Solutions in Distributed Systems</li>
+				<li>Peer-Review / Knowledge Sharing</li>
+				<li>Features Implementation / Product Demonstrations</li>
+				<li>Software Quality and Life Cycle Management</li>
+				<li>Issue and System Verification for Product Release</li>
+				<li>Technical Documentation and User Guides</li>
+				<li>Remote Technical Support / Investigation / Troubleshooting on Production Systems</li>
+			</ul>
+		</section>
+		<section class="item">
+			<header>
+			</header>
+			<span class="position">
+				Software Engineer (Applications)
+			</span>
+
+			<span class="startDate">
+				Feb 2022
+			</span>
+			<span class="endDate">
+				- Jan 2024
+			</span>
+
+			<div class="summary">
+				<p><p>Designing and implementing code and algorithms for radiotherapy treatment management and planning applications. Resolving defects in advanced algorithms for medical image analysis. Testing (unit, integration, end-to-end) to ensure software quality. Peer-reviewing code and sharing knowledge across teams. Following design and development processes to ensure accuracy, safety, and compliance with medical software regulations. Documenting development processes and maintaining traceability in accordance with quality management system requirements. Creating and maintening CI/CD pipelines. Collaborating with DevOps engineers to optimize automated test execution within CI/CD pipelines, reducing manual effort and improving release confidence</p></p>
+			</div>
+			<ul class="highlights">
+				<li>Applications and Algorithms Development</li>
+				<li>Peer-Review / Knowledge Sharing</li>
+				<li>Software Quality and Life Cycle Management</li>
+				<li>Automated Testing in CI/CD Pipelines</li>
+				<li>Issue and System Verification for Product Release</li>
+				<li>Technical Documentation and User Guides</li>
+				<li>Safety and Compliance with Medical Regulations</li>
+			</ul>
+		</section>
+		<section class="item">
+			<header>
+			</header>
+			<span class="position">
+				Research &amp; Development (Doctorate)
+			</span>
+
+			<span class="startDate">
+				Nov 2016
+			</span>
+			<span class="endDate">
+				- Jan 2021
+			</span>
+
+			<div class="summary">
+				<p><p>Designing, developing, testing, documentating, and packaging software. Creating an innovative pulse shaping framework (shapr) to overcome major challenges in the domain of ultrafast spectroscopy. Designing novel data acquisition techniques and data processing algorithms. Managing laboratory equipments and assets (lasers, spectrometers, spatial-light modulators). Maintaining and optimizating high-power femto-second lasers (oscillator, amplificator, strecher, compressor). Investigating light-matter interaction to understand and control the dynamics of energy conversion and transfer in macro-molecules.</p></p>
+			</div>
+			<ul class="highlights">
+				<li>Research in Applied Physics</li>
+				<li>Scientific Computing</li>
+				<li>Software Development Life Cycle Management (SDLC)</li>
+				<li>Source-Control / Documentation / Testing / Packaging</li>
+			</ul>
+		</section>
+		<section class="item">
+			<header>
+			</header>
+			<span class="position">
+				Research Assistant (Internship Program)
+			</span>
+
+			<span class="startDate">
+				May 2016
+			</span>
+			<span class="endDate">
+				- Oct 2016
+			</span>
+
+			<div class="summary">
+				<p><p>End-to-end construction of a nonlinear optical parametric amplifier (NOPA) for broadband optical pulse generation. Including research, design, assembly, simulation, and optimization of the system.</p></p>
+			</div>
+			<ul class="highlights">
+				<li>Research in Applied Physics</li>
+				<li>Physics Literature</li>
+				<li>Scientific Computing</li>
+			</ul>
+		</section>
+	</section>
+
+
+	<section id="education">
+		<h2>Education</h2>
+		<div class="item">
+			<header>
+					<h3 class="name">The Institute of Applied Physics Bern, Switzerland</h3>
+			</header>
+
+			<div class="dates">
+				<span class="startDate">
+					Nov 2016
+				</span>
+				<span class="endDate">
+					- Jan 2021
+				</span>
+			</div>
+
+			<div class="qualification">
+				<span class="studyType">
+					Doctorate
+				</span>
+
+				<span class="area">
+					- Ultrafast Spectroscopy
+				</span>
+
+			</div>
+
+		</div>
+		<div class="item">
+			<header>
+					<h3 class="name">The Institute of Applied Physics Bern, Switzerland</h3>
+			</header>
+
+			<div class="dates">
+				<span class="startDate">
+					May 2016
+				</span>
+				<span class="endDate">
+					- Oct 2016
+				</span>
+			</div>
+
+			<div class="qualification">
+				<span class="studyType">
+					Internship
+				</span>
+
+				<span class="area">
+					- Physics
+				</span>
+
+			</div>
+
+		</div>
+		<div class="item">
+			<header>
+					<h3 class="name">The University of Le Mans, France</h3>
+			</header>
+
+			<div class="dates">
+				<span class="startDate">
+					Aug 2014
+				</span>
+				<span class="endDate">
+					- Sep 2016
+				</span>
+			</div>
+
+			<div class="qualification">
+				<span class="studyType">
+					Master
+				</span>
+
+				<span class="area">
+					- Physics and Optical Engineering
+				</span>
+
+			</div>
+
+		</div>
+		<div class="item">
+			<header>
+					<h3 class="name">The University of Le Mans, France</h3>
+			</header>
+
+			<div class="dates">
+				<span class="startDate">
+					Sep 2010
+				</span>
+				<span class="endDate">
+					- Aug 2013
+				</span>
+			</div>
+
+			<div class="qualification">
+				<span class="studyType">
+					Bachelor
+				</span>
+
+				<span class="area">
+					- Physics, Chemistry, and Mathematics
+				</span>
+
+			</div>
+
+		</div>
+	</section>
+
+
+
+	<section id="languages">
+		<h2>Languages</h2>
+		<div class="item">
+			<div class="language">
+				French
+			</div>
+			<div class="fluency">
+				<em>Native speaker</em>
+			</div>
+		</div>
+		<div class="item">
+			<div class="language">
+				English
+			</div>
+			<div class="fluency">
+				<em>Fluent (speaking and writing)</em>
+			</div>
+		</div>
+	</section>
+
+	<section id="interests">
+		<h2>Interests</h2>
+		<div class="item">
+			<div class="name">
+				🏸 Playing Football / Badminton / Squash / Padel / Running / Roller Skating
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				📚 Reading Books / Blogs / Documentations
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				🎧 Listening to Music / Podcasts
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				👩🏻‍💻 Learning Technology / Open-Source / Python / AI
+			</div>
+		</div>
+		<div class="item">
+			<div class="name">
+				🎮 Playing Video Games / Board Games
+			</div>
+		</div>
+	</section>
+
+	<section id="references">
+		<h2>References</h2>
+		<div class="item">
+			<blockquote class="reference">
+				Coming soon
+			</blockquote>
+			<div class="name">
+				— Alexander Houben, AI Lead and Former Manager, Siemens Healthineers
+			</div>
+		</div>
+		<div class="item">
+			<blockquote class="reference">
+				I enjoyed working with you because of your strong work ethic, attention to detail, and ability to quickly identify and resolve issues. You consistently took ownership of tasks and delivered reliable results, even under tight timelines. You are a dependable and results-driven professional who consistently delivers quality work. Your attention to detail, quick troubleshooting skills, and commitment to continuous improvement would benefit any employer.
+			</blockquote>
+			<div class="name">
+				— Uddhav Ghanekar, Lead, Technical Process, Siemens Healthineers
+			</div>
+		</div>
+		<div class="item">
+			<blockquote class="reference">
+				You are professional, competent, and take full responsibility for your work. Your directness in key situations is refreshing and helps the team address challenges head-on. Your pro-active approach helps solve problems before they arise. Any employer would benefit from hiring you because of your meticulous attention to detail and thorough approach to tasks. Your natural curiosity and drive to learn ensure that you are constantly growing and bringing new insights to the team.
+			</blockquote>
+			<div class="name">
+				— Marko Peltonen, Senior SW Engineer, Siemens Healthineers
+			</div>
+		</div>
+		<div class="item">
+			<blockquote class="reference">
+				You possess profound specialist know-how and extensive experience in your entire area of responsibility. You are able to balance efforts with results. You deliver commendable work of high quality and effectively transfer knowledge across the team. You always communicate clearly, precisely, and present topics in lucid and structured ways. You are highly dedicated and have exceptional attention to detail. Flexible and open to change, you recognize the value of enhanced processes and play an important part in putting them into practice. You readily take on extra responsibility, can act independently, demonstrate initiative, and show a strong commitment in your work. You put yourself at the service of clients and attach considerable importance to building sustainable relationships. You develop practicable ideas for improvements and actively support their implementation.
+			</blockquote>
+			<div class="name">
+				— Agnieszka Pazdan, Manager, Siemens Healthineers
+			</div>
+		</div>
+		<div class="item">
+			<blockquote class="reference">
+				I came to know Stephen as a competent professional who consistently delivers on agreed matters with solid commitment. He proved to be dependable, responsive, and always willing to provide support when needed. His collaborative approach made him one of the constant performers regarding the activities we worked on, and I am confident he will continue to make a positive impact wherever he works.
+			</blockquote>
+			<div class="name">
+				— Jari Turunen, Manager, Project Management, Siemens Healthineers
+			</div>
+		</div>
+		<div class="item">
+			<blockquote class="reference">
+				Coming soon
+			</blockquote>
+			<div class="name">
+				— Shahzad Butt, Role, Siemens Healthineers
+			</div>
+		</div>
+	</section>
+
+	</div>
+
+	</body>
+</html>
