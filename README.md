@@ -63,3 +63,27 @@ Automate the publishing of my resume to [registry.jsonresume.org](https://regist
 -   [Brutalist](https://registry.jsonresume.org/stephenroille?theme=brutalist)
 -   [Art Deco](https://registry.jsonresume.org/stephenroille?theme=art-deco)
 
+## Alternate Way (local build)
+
+When the `registry.jsonresume.org` server is down, you compile it locally and publish an `index.html` to [GitHub Pages](https://stephenroille.github.io/json-resume/)
+
+1. Install the `resume-cli`
+
+    ```bash
+    npm i -g resume-cli
+    ```
+
+2. Install a theme (`colophon`, `even`, `art-school-modern`, `academic-cv-lite`, `architects-portfolio`, `jsonresume-theme-short-with-location`, `monochrome-noir`, `jsonresume-theme-direct`, `jsonresume-theme-claude`, `jsonresume-theme-elegant-jali`, `jsonresume-theme-autumn`, `jsonresume-theme-macea`, `jsonresume-theme-stackoverflow`, ...)
+
+    ```bash
+    npm i jsonresume-theme-stackoverflow
+    ```
+
+3. Export `resume.json` to `index.html`
+
+    ```bash
+    npx resume export -r resume.json --theme jsonresume-theme-stackoverflow index.html
+    ```
+
+4. Push the `index.html` to the `main` branch (depends on what you have confighured in `Repo` > `Setting` tab > `Pages` section)
+5. Visit the repository's GitHub Pages: [stephenroille.github.io/json-resume/](https://stephenroille.github.io/json-resume/)
