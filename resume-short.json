@@ -1,0 +1,345 @@
+{
+    "meta": {
+        "theme": "art-school-modern"
+    },
+    "basics": {
+        "name": "Stephen Roille",
+        "label": "Software Engineer",
+        "image": "https://avatars.githubusercontent.com/u/36302072",
+        "summary": "Prototyper. Builder. Full-stack developer. Python enthusiast. AI practioner. I love software craftmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
+        "url": "https://registry.jsonresume.org/stephenroille",
+        "email": "stephen.roille@gmail.com",
+        "location": {
+            "postalCode": "CH-5600",
+            "city": "Lenzburg",
+            "countryCode": "CH",
+            "region": "Aargau"
+        },
+        "profiles": [
+            {
+                "url": "https://github.com/stephenroille",
+                "username": "stephenroille",
+                "network": "github"
+            }
+        ]
+    },
+    "education": [
+        {
+            "startDate": "2016-11-01",
+            "endDate": "2021-01-31",
+            "area": "Ultrafast Spectroscopy",
+            "studyType": "Doctorate",
+            "institution": "The Institute of Applied Physics Bern, Switzerland",
+            "url": "https://www.iap.unibe.ch/"
+        },
+        {
+            "startDate": "2016-05-01",
+            "endDate": "2016-10-31",
+            "area": "Physics",
+            "studyType": "Internship",
+            "institution": "The Institute of Applied Physics Bern, Switzerland",
+            "url": "https://www.iap.unibe.ch/"
+        },
+        {
+            "startDate": "2014-08-31",
+            "endDate": "2016-09-01",
+            "area": "Physics and Optical Engineering",
+            "studyType": "Master",
+            "institution": "The University of Le Mans, France",
+            "url": "https://www.univ-lemans.fr/fr/index.html"
+        },
+        {
+            "startDate": "2010-09-01",
+            "endDate": "2013-08-31",
+            "area": "Physics, Chemistry, and Mathematics",
+            "studyType": "Bachelor",
+            "institution": "The University of Le Mans, France",
+            "url": "https://www.univ-lemans.fr/fr/index.html"
+        }
+    ],
+    "references": [
+        {
+            "reference": "Your domain expertise and structured way of thinking have proven genuinely valuable to the Monitoring and Observability team, helping to clarify uncertainties early and better align expectations on features implementation and defects resolution. Your passion and exceptional communication skills are vividly displayed during demos, training sessions, and peer-to-peer conversations. You act with high agency. Your proactive mindset and drive to grow are consistently demonstrated through your actions and interactions with your peers. Your desire and ability to continuously learn is admirable and you rarely settles for the status quo. You strive to improve current solutions and inspire others to do the same. You often step boldly to assume responsibilities beyond your role and core competencies. Ultimately, your contributions have made you a go-to person for all things related to monitoring and observability.",
+            "name": "Alexander Houben, AI Lead and Manager, Siemens Healthineers"
+        },
+        {
+            "reference": "I enjoyed working with you for your strong work ethic, attention to detail, and ability to quickly identify and resolve issues. You consistently took ownership of tasks and delivered reliable results, even under tight timelines. You are a dependable and results-driven professional who consistently delivers quality work. Your attention to detail, quick troubleshooting skills, and commitment to continuous improvement would benefit any employer.",
+            "name": "Uddhav Ghanekar, Lead, Technical Process, Siemens Healthineers"
+        },
+        {
+            "reference": "You are professional, competent, and take full responsibility for your work. Your directness in key situations is refreshing and helps the team address challenges head-on. Your pro-active approach helps solve problems before they arise. Any employer would benefit from hiring you for your meticulous attention to detail and thorough approach to tasks. Your natural curiosity and drive to learn ensure that you are constantly growing and bringing new insights to the team.",
+            "name": "Marko Peltonen, Senior SW Engineer, Siemens Healthineers"
+        },
+        {
+            "reference": "You possess profound specialist know-how and extensive experience in your entire area of responsibility. You are able to balance efforts with results. You deliver commendable work of high quality and effectively transfer knowledge across the team. You always communicate clearly, precisely, and present topics in lucid and structured ways. You are highly dedicated and have exceptional attention to detail. Flexible and open to change, you recognize the value of enhanced processes and play an important part in putting them into practice. You readily take on extra responsibility, can act independently, demonstrate initiative, and show a strong commitment in your work. You put yourself at the service of clients and attach considerable importance to building sustainable relationships. You develop practicable ideas for improvements and actively support their implementation.",
+            "name": "Agnieszka Pazdan, Manager, Siemens Healthineers"
+        },
+        {
+            "reference": "I came to know Stephen as a competent professional who consistently delivers on agreed matters with solid commitment. He proved to be dependable, responsive, and always willing to provide support when needed. His collaborative approach made him one of the constant performers regarding the activities we worked on, and I am confident he will continue to make a positive impact wherever he works.",
+            "name": "Jari Turunen, Manager, Project Management, Siemens Healthineers"
+        },
+        {
+            "reference": "I liked working with you. You are very pleasant, calm, and focused. You are a problem solver and are exceptionally knowledgeable within your domain. Any company would be lucky to have you.",
+            "name": "Shahzad Butt, Senior SW System Architect, Siemens Healthineers"
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "CSS",
+                "Dockerfile",
+                "HTML",
+                "JSON",
+                "Markdown",
+                "TOML",
+                "YAML",
+                "HashiCorp Configuration Language (HCL)"
+            ],
+            "level": "",
+            "name": "Domain Specific Languages"
+        },
+        {
+            "keywords": [
+                "Python / pip",
+                "Bash",
+                "Shell",
+                "Powershell",
+                "SQL",
+                "LogQL",
+                "Kusto"
+            ],
+            "level": "",
+            "name": "Programming and Scripting Languages"
+        },
+        {
+            "keywords": [
+                "Flask",
+                "Jinja2",
+                "Streamlit",
+                "FastAPI",
+                "Static Site Generators",
+                "RESTful APIs",
+                "Reveal.js",
+                "Postman"
+            ],
+            "level": "",
+            "name": "Web Development"
+        },
+        {
+            "keywords": [
+                "Surge",
+                "Vercel",
+                "Netlify",
+                "Heroku",
+                "Microsoft Azure",
+                "Digital Ocean",
+                "Terraform"
+            ],
+            "level": "",
+            "name": "Deployment and Hosting"
+        },
+        {
+            "keywords": [
+                "git",
+                "pre-commit framework",
+                "dvc",
+                "GitHub",
+                "GitLab",
+                "Azure DevOps"
+            ],
+            "level": "",
+            "name": "Version Control"
+        },
+        {
+            "keywords": ["MongoDB", "Redis", "SQLite", "PostgreSQL", "Notion"],
+            "level": "",
+            "name": "Databases"
+        },
+        {
+            "keywords": [
+                "Grafana",
+                "OpenTelemetry",
+                "Prometheus",
+                "Fluentbit",
+                "Kubernetes",
+                "Docker / Docker Compose",
+                "restic",
+                "Linux",
+                "Zensical"
+            ],
+            "level": "",
+            "name": "Misc"
+        },
+        {
+            "keywords": ["Jupyter Lab", "VS Code", "Pi"],
+            "level": "",
+            "name": "Editors and Harnesses"
+        },
+        {
+            "keywords": [
+                "Ollama / Ollama.cpp",
+                "LangChain / LangGraph",
+                "Skills",
+                "Model Context Protocol (MCP)",
+                "Agent OS",
+                "Open Knowledge Format (OKF)"
+            ],
+            "level": "",
+            "name": "Artificial Intelligence"
+        },
+        {
+            "keywords": [
+                "Agency / Versatility",
+                "Adaptability / Flexibility",
+                "Attentiveness / Dedication",
+                "Collaboration / Teamwork",
+                "Continuous Improvement",
+                "Creative & Structured Thinking",
+                "Curiosity / Open-Mindedness",
+                "Empathy / Honesty",
+                "Pragmatism / Perseverance",
+                "Problem Solving / Tinkering"
+            ],
+            "level": "",
+            "name": "Soft Skills"
+        }
+    ],
+    "work": [
+        {
+            "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best-practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
+            "website": "https://cancercare.siemens-healthineers.com/",
+            "name": "Siemens Healthineers",
+            "location": "Dättwil, Switzerland",
+            "position": "Software Engineer (Platform and Infrastructure)",
+            "startDate": "2024-02-01",
+            "highlights": [
+                "Cloud and On-Premises Monitoring Solutions in Distributed Systems",
+                "Peer-Review / Knowledge Sharing",
+                "Features Implementation / Product Demonstrations",
+                "Software Quality and Life Cycle Management",
+                "Issue and System Verification for Product Release",
+                "Technical Documentation and User Guides",
+                "Remote Technical Support / Investigation / Troubleshooting on Production Systems"
+            ]
+        },
+        {
+            "summary": "Designing and implementing code and algorithms for radiotherapy treatment management and planning applications. Resolving defects in advanced algorithms for medical image analysis. Testing (unit, integration, end-to-end) to ensure software quality. Peer-reviewing code and sharing knowledge across teams. Following design and development processes to ensure accuracy, safety, and compliance with medical software regulations. Documenting development processes and maintaining traceability in accordance with quality management system requirements. Creating and maintening CI/CD pipelines. Collaborating with DevOps engineers to optimize automated test execution within CI/CD pipelines, reducing manual effort and improving release confidence",
+            "website": "https://www.varian.com",
+            "name": "Varian Medical Systems Imaging Laboratory",
+            "location": "Dättwil, Switzerland",
+            "position": "Software Engineer (Applications)",
+            "startDate": "2022-02-01",
+            "endDate": "2024-01-31",
+            "highlights": [
+                "Applications and Algorithms Development",
+                "Peer-Review / Knowledge Sharing",
+                "Software Quality and Life Cycle Management",
+                "Automated Testing in CI/CD Pipelines",
+                "Issue and System Verification for Product Release",
+                "Technical Documentation and User Guides",
+                "Safety and Compliance with Medical Regulations"
+            ]
+        },
+        {
+            "summary": "Designing, developing, testing, documentating, and packaging software. Creating an innovative pulse shaping framework (shapr) to overcome major challenges in the domain of ultrafast spectroscopy. Designing novel data acquisition techniques and data processing algorithms. Managing laboratory equipments and assets (lasers, spectrometers, spatial-light modulators). Maintaining and optimizating high-power femto-second lasers (oscillator, amplificator, strecher, compressor). Investigating light-matter interaction to understand and control the dynamics of energy conversion and transfer in macro-molecules.",
+            "website": "https://www.iap.unibe.ch/",
+            "name": "Institute of Applied Physics",
+            "location": "Bern, Switzerland",
+            "position": "Research & Development (Doctorate)",
+            "startDate": "2016-11-01",
+            "endDate": "2021-01-31",
+            "highlights": [
+                "Research in Applied Physics",
+                "Scientific Computing",
+                "Software Development Life Cycle Management (SDLC)",
+                "Source-Control / Documentation / Testing / Packaging"
+            ]
+        },
+        {
+            "summary": "End-to-end construction of a nonlinear optical parametric amplifier (NOPA) for broadband optical pulse generation. Including research, design, assembly, simulation, and optimization of the system.",
+            "website": "https://www.iap.unibe.ch/",
+            "name": "Institute of Applied Physics",
+            "location": "Bern, Switzerland",
+            "position": "Research Assistant (Internship Program)",
+            "startDate": "2016-05-01",
+            "endDate": "2016-10-01",
+            "highlights": [
+                "Research in Applied Physics",
+                "Physics Literature",
+                "Scientific Computing"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "🏸 Playing Ball or Racket Sport, Running and Roller Skating"
+        },
+        {
+            "name": "📚 Reading Books and Blogs"
+        },
+        {
+            "name": "🎧 Listening to Music and Podcasts"
+        },
+        {
+            "name": "👩🏻‍💻 Learning Open-Source Technology, Python and AI"
+        },
+        {
+            "name": "🎮 Playing Video Games and Board Games"
+        },
+        {
+            "name": "🍺 Drinking Coffee, Belgian/Craft Beers and Barrel-Aged Spirits"
+        }
+    ],
+    "languages": [
+        {
+            "language": "French",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent (speaking and writing)"
+        }
+    ],
+    "projects": [
+        {
+            "name": "shapr",
+            "startDate": "2019-08-27",
+            "endDate": "2021-03-21",
+            "description": "A pure-Python library to push forward scientific progress in ultrafast spectroscopy using pulse shaping techniques via spatial light modulators (SLMs).",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/shapr"
+        },
+        {
+            "name": "andor",
+            "startDate": "2019-10-30",
+            "endDate": "2020-11-26",
+            "description": "A pure-Python library to control the hardware of Andor cameras, spectrographs, and spectrometers. Developed to be integrated with the shapr library.",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/andor"
+        },
+        {
+            "name": "avantes",
+            "startDate": "2019-04-03",
+            "endDate": "2020-11-26",
+            "description": "A pure-Python library to control the hardware of Avantes USB-2 spectrometers. Developed to be integrated with the shapr library.",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/avantes"
+        },
+        {
+            "name": "git-conventional-changelog",
+            "startDate": "2020-03-08",
+            "endDate": "2020-03-08",
+            "description": "A pure-Python command line tool to generate changelogs (.md, .html) from the history of any git repository by following best practices (semantic versioning, keep a Changelog, conventional commit)",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/git-conventional-changelog"
+        },
+        {
+            "name": "module",
+            "startDate": "2019-09-26",
+            "endDate": "2019-12-09",
+            "description": "A Python web application developed to open new ways to do spectroscopy.",
+            "highlights": [],
+            "url": "http://github.com/StephenRoille/module"
+        }
+    ]
+}
