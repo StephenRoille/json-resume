@@ -82,7 +82,8 @@ When the `registry.jsonresume.org` server is down, you compile it locally and pu
 3. Export `resume.json` to `index.html`
 
     ```bash
-    npx resume export -r resume.json --theme jsonresume-theme-stackoverflow index.html
+    npx resume export -r resume-short.json --theme jsonresume-theme-stackoverflow index.html
+    npx resume export -r resume-short.json --theme jsonresume-theme-short-with-location cv.html
     ```
 
 4. Push the `index.html` to the `main` branch (depends on what you have confighured in `Repo` > `Setting` tab > `Pages` section)
