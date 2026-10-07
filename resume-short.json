@@ -6,7 +6,7 @@
         "name": "Stephen Roille",
         "label": "Software Engineer",
         "image": "https://avatars.githubusercontent.com/u/36302072",
-        "summary": "Prototyper. Builder. Full-stack developer. Python enthusiast. AI practitioner. I love software craftsmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
+        "summary": "Prototyper. Builder. Full-stack developer. Python enthusiast. AI practitioner focused on privacy and control. I love software craftsmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
         "url": "https://registry.jsonresume.org/stephenroille",
         "email": "stephen.roille@gmail.com",
         "location": {
@@ -106,7 +106,8 @@
                 "PowerShell",
                 "SQL",
                 "LogQL",
-                "Kusto"
+                "Kusto",
+                "Rust (learning)"
             ],
             "level": "",
             "name": "Programming and Scripting Languages"
@@ -132,8 +133,7 @@
                 "Netlify",
                 "Heroku",
                 "Microsoft Azure",
-                "DigitalOcean",
-                "Terraform"
+                "DigitalOcean"
             ],
             "level": "",
             "name": "Deployment and Hosting"
@@ -164,9 +164,10 @@
                 "Prometheus",
                 "Fluent Bit",
                 "Kubernetes",
-                "Docker / Docker Compose",
+                "Docker / Compose",
                 "restic",
                 "Linux",
+                "Terraform / OpenTofu",
                 "Zensical"
             ],
             "level": "",
@@ -179,12 +180,12 @@
         },
         {
             "keywords": [
-                "Ollama / Ollama.cpp",
-                "LangChain / LangGraph",
-                "Skills",
+                "Ollama / llama.cpp / vLLM",
                 "Model Context Protocol (MCP)",
-                "Agent OS",
-                "Open Knowledge Format (OKF)"
+                "LangGraph (learning)",
+                "CrewAI (learning)",
+                "RAG / LlamaIndex (learning)",
+                "LLM Evals / Promptfoo (learning)"
             ],
             "level": "",
             "name": "Artificial Intelligence"
@@ -208,12 +209,31 @@
     ],
     "work": [
         {
+            "summary": "Building and administering a Proxmox server and a privacy-first local AI lab: two tracks that sharpen entreprise-grade skills. Homelab — virtualization with Proxmox Virtual Environment, Linux administration, networking, RBAC and zero-trust access control, data storage and backups, containers and orchestration, infrastructure as code and CI/CD, evolved following community best practices. Local AI — serving open-weight models on my own hardware with sandboxing and audit logging; relying on a system one model-routing agent that selects the best model for each task; exposing the stack to any agent framework or harness with secure remote access from any trusted devices, from anywhere; Learning new tools and practices as they arise.",
+            "location": "Lenzburg, Switzerland",
+            "position": "Independent Platform and Software Engineer with AI-focus",
+            "startDate": "2026-04-01",
+            "highlights": [
+                "System Administration / Virtualization (Linux, Proxmox Virtual Environment)",
+                "Infrastructure as Code (cloud-init, Terraform, OpenTofu, Packer, Ansible) / CI-CD (GitLab)",
+                "Secure Networking / RBAC / Zero-Trust Access (UniFi, VLAN, Firewall, Pangolin)",
+                "Data Storage / Backups (TrueNAS, Proxmox Backup Server, S3-compatible storage)",
+                "Containers / Orchestration (LXC, Docker, Kubernetes, Helm)",
+                "Privacy-First Local AI Model Serving (DGX Spark, llama.cpp, vLLM, Ollama)",
+                "Model-Agnostic Frameworks / Harnesses (Pi, LangChain, CrewAI, Buzz)",
+                "Efficient Decision Making Agentic Workflows (Open-Source System One Models)",
+                "Self-Hosting Services",
+                "LLM Evals (Promptfoo) / RAG (LlamaIndex) / Rust Fundamentals"
+            ]
+        },
+        {
             "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
             "website": "https://cancercare.siemens-healthineers.com/",
             "name": "Siemens Healthineers",
             "location": "Dättwil, Switzerland",
             "position": "Software Engineer (Platform and Infrastructure)",
             "startDate": "2024-02-01",
+            "endDate": "2026-09-30",
             "highlights": [
                 "Cloud and On-Premises Monitoring Solutions in Distributed Systems",
                 "Peer-Review / Knowledge Sharing",
