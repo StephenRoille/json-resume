@@ -6,7 +6,7 @@
         "name": "Stephen Roille",
         "label": "Software Engineer",
         "image": "https://avatars.githubusercontent.com/u/36302072",
-        "summary": "Prototyper. Builder. Full-stack developer. Python enthusiast. AI practioner. I love software craftmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
+        "summary": "Prototyper. Builder. Full-stack developer. Python enthusiast. AI practitioner. I love software craftsmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
         "url": "https://registry.jsonresume.org/stephenroille",
         "email": "stephen.roille@gmail.com",
         "location": {
@@ -59,7 +59,7 @@
     ],
     "references": [
         {
-            "reference": "Your domain expertise and structured way of thinking have proven genuinely valuable to the Monitoring and Observability team, helping to clarify uncertainties early and better align expectations on features implementation and defects resolution. Your passion and exceptional communication skills are vividly displayed during demos, training sessions, and peer-to-peer conversations. You act with high agency. Your proactive mindset and drive to grow are consistently demonstrated through your actions and interactions with your peers. Your desire and ability to continuously learn is admirable and you rarely settles for the status quo. You strive to improve current solutions and inspire others to do the same. You often step boldly to assume responsibilities beyond your role and core competencies. Ultimately, your contributions have made you a go-to person for all things related to monitoring and observability.",
+            "reference": "Your domain expertise and structured way of thinking have proven genuinely valuable to the Monitoring and Observability team, helping to clarify uncertainties early and better align expectations on features implementation and defects resolution. Your passion and exceptional communication skills are vividly displayed during demos, training sessions, and peer-to-peer conversations. You act with high agency. Your proactive mindset and drive to grow are consistently demonstrated through your actions and interactions with your peers. Your desire and ability to continuously learn is admirable and you rarely settle for the status quo. You strive to improve current solutions and inspire others to do the same. You often step boldly to assume responsibilities beyond your role and core competencies. Ultimately, your contributions have made you a go-to person for all things related to monitoring and observability.",
             "name": "Alexander Houben, AI Lead and Manager, Siemens Healthineers"
         },
         {
@@ -100,10 +100,10 @@
         },
         {
             "keywords": [
-                "Python / pip",
+                "Python",
                 "Bash",
                 "Shell",
-                "Powershell",
+                "PowerShell",
                 "SQL",
                 "LogQL",
                 "Kusto"
@@ -132,7 +132,7 @@
                 "Netlify",
                 "Heroku",
                 "Microsoft Azure",
-                "Digital Ocean",
+                "DigitalOcean",
                 "Terraform"
             ],
             "level": "",
@@ -157,10 +157,12 @@
         },
         {
             "keywords": [
+                "SSH",
                 "Grafana",
                 "OpenTelemetry",
+                "pip / uv",
                 "Prometheus",
-                "Fluentbit",
+                "Fluent Bit",
                 "Kubernetes",
                 "Docker / Docker Compose",
                 "restic",
@@ -206,7 +208,7 @@
     ],
     "work": [
         {
-            "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best-practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
+            "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
             "website": "https://cancercare.siemens-healthineers.com/",
             "name": "Siemens Healthineers",
             "location": "Dättwil, Switzerland",
@@ -223,7 +225,7 @@
             ]
         },
         {
-            "summary": "Designing and implementing code and algorithms for radiotherapy treatment management and planning applications. Resolving defects in advanced algorithms for medical image analysis. Testing (unit, integration, end-to-end) to ensure software quality. Peer-reviewing code and sharing knowledge across teams. Following design and development processes to ensure accuracy, safety, and compliance with medical software regulations. Documenting development processes and maintaining traceability in accordance with quality management system requirements. Creating and maintening CI/CD pipelines. Collaborating with DevOps engineers to optimize automated test execution within CI/CD pipelines, reducing manual effort and improving release confidence",
+            "summary": "Designing and implementing code and algorithms for radiotherapy treatment management and planning applications. Resolving defects in advanced algorithms for medical image analysis. Testing (unit, integration, end-to-end) to ensure software quality. Peer-reviewing code and sharing knowledge across teams. Following design and development processes to ensure accuracy, safety, and compliance with medical software regulations. Documenting development processes and maintaining traceability in accordance with quality management system requirements. Creating and maintaining CI/CD pipelines. Collaborating with DevOps engineers to optimize automated test execution within CI/CD pipelines, reducing manual effort and improving release confidence",
             "website": "https://www.varian.com",
             "name": "Varian Medical Systems Imaging Laboratory",
             "location": "Dättwil, Switzerland",
@@ -241,7 +243,7 @@
             ]
         },
         {
-            "summary": "Designing, developing, testing, documentating, and packaging software. Creating an innovative pulse shaping framework (shapr) to overcome major challenges in the domain of ultrafast spectroscopy. Designing novel data acquisition techniques and data processing algorithms. Managing laboratory equipments and assets (lasers, spectrometers, spatial-light modulators). Maintaining and optimizating high-power femto-second lasers (oscillator, amplificator, strecher, compressor). Investigating light-matter interaction to understand and control the dynamics of energy conversion and transfer in macro-molecules.",
+            "summary": "Designing, developing, testing, documenting, and packaging software. Creating an innovative pulse shaping framework (shapr) to overcome major challenges in the domain of ultrafast spectroscopy. Designing novel data acquisition techniques and data processing algorithms. Managing laboratory equipment and assets (lasers, spectrometers, spatial-light modulators). Maintaining and optimizing high-power femtosecond lasers (oscillator, amplifier, stretcher, compressor). Investigating light-matter interaction to understand and control the dynamics of energy conversion and transfer in macromolecules.",
             "website": "https://www.iap.unibe.ch/",
             "name": "Institute of Applied Physics",
             "location": "Bern, Switzerland",
@@ -252,7 +254,7 @@
                 "Research in Applied Physics",
                 "Scientific Computing",
                 "Software Development Life Cycle Management (SDLC)",
-                "Source-Control / Documentation / Testing / Packaging"
+                "Source Control / Documentation / Testing / Packaging"
             ]
         },
         {
