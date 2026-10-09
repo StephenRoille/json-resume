@@ -4,9 +4,9 @@
     },
     "basics": {
         "name": "Stephen Roille",
-        "label": "Software Engineer",
+        "label": "Software, Platform and AI Engineer",
         "image": "https://avatars.githubusercontent.com/u/36302072",
-        "summary": "Prototyper. Builder. Full-stack developer. Python enthusiast. AI practitioner focused on privacy and control. I love software craftsmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
+        "summary": "Builder. Full-stack developer. Python enthusiast. AI practitioner focused on sovereignty. I love software craftsmanship, tinkering with technology, and designing solutions to real-world problems. I prioritize product usability through user feedback and documentation, and I focus on simplicity and maintainability. I have a growth mindset and seek to learn new things. Everyday. I choose practicality over purity. I enjoy good team work, genuine collaborations, and trustworthy open-source communities.",
         "url": "https://registry.jsonresume.org/stephenroille",
         "email": "stephen.roille@gmail.com",
         "location": {
@@ -88,12 +88,12 @@
             "keywords": [
                 "CSS",
                 "Dockerfile",
+                "HCL",
                 "HTML",
                 "JSON",
                 "Markdown",
                 "TOML",
-                "YAML",
-                "HashiCorp Configuration Language (HCL)"
+                "YAML"
             ],
             "level": "",
             "name": "Domain Specific Languages"
@@ -168,6 +168,7 @@
                 "restic",
                 "Linux",
                 "Terraform / OpenTofu",
+                "Microsoft Teams",
                 "Zensical"
             ],
             "level": "",
@@ -209,7 +210,8 @@
     ],
     "work": [
         {
-            "summary": "Building and administering a Proxmox server and a privacy-first local AI lab: two tracks that sharpen entreprise-grade skills. Homelab — virtualization with Proxmox Virtual Environment, Linux administration, networking, RBAC and zero-trust access control, data storage and backups, containers and orchestration, infrastructure as code and CI/CD, evolved following community best practices. Local AI — serving open-weight models on my own hardware with sandboxing and audit logging; relying on a system one model-routing agent that selects the best model for each task; exposing the stack to any agent framework or harness with secure remote access from any trusted devices, from anywhere; Learning new tools and practices as they arise.",
+            "summary": "Building and administering a Proxmox server and a privacy-first local AI lab: two tracks that sharpen entreprise-grade skills. Homelab — virtualization with Proxmox Virtual Environment, Linux administration, networking, RBAC and zero-trust access control, data storage and backups, containers and orchestration, infrastructure as code and CI/CD, evolved following community best practices. Local AI — serving open-weight models on my own hardware with sandboxing and audit logging; prioritizing privacy, sovereignty, reliability, and performance; exposing the stack to any agent framework or harness with secure remote access from any trusted devices, anywhere; Learning and experimenting with new tools and practices.",
+            "name": "Self-Directed",
             "location": "Lenzburg, Switzerland",
             "position": "Independent Platform and Software Engineer with AI-focus",
             "startDate": "2026-04-01",
@@ -217,31 +219,31 @@
                 "System Administration / Virtualization (Linux, Proxmox Virtual Environment)",
                 "Infrastructure as Code (cloud-init, Terraform, OpenTofu, Packer, Ansible) / CI-CD (GitLab)",
                 "Secure Networking / RBAC / Zero-Trust Access (UniFi, VLAN, Firewall, Pangolin)",
-                "Data Storage / Backups (TrueNAS, Proxmox Backup Server, S3-compatible storage)",
-                "Containers / Orchestration (LXC, Docker, Kubernetes, Helm)",
+                "Data Sovereignty / Storage / Backup (TrueNAS, Proxmox Backup Server, S3-compatible storage)",
+                "Containerization / Orchestration (LXC, Docker, Kubernetes, Helm)",
                 "Privacy-First Local AI Model Serving (DGX Spark, llama.cpp, vLLM, Ollama)",
                 "Model-Agnostic Frameworks / Harnesses (Pi, LangChain, CrewAI, Buzz)",
-                "Efficient Decision Making Agentic Workflows (Open-Source System One Models)",
-                "Self-Hosting Services",
+                "Efficient Decision-Making Agentic Workflows (Open-Source System One Models)",
+                "Self-Hosting Applications and Services",
                 "LLM Evals (Promptfoo) / RAG (LlamaIndex) / Rust Fundamentals"
             ]
         },
         {
             "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
             "website": "https://cancercare.siemens-healthineers.com/",
-            "name": "Siemens Healthineers",
+            "name": "Varian Medical Systems (aquired by Siemens Healthineers)",
             "location": "Dättwil, Switzerland",
             "position": "Software Engineer (Platform and Infrastructure)",
             "startDate": "2024-02-01",
             "endDate": "2026-09-30",
             "highlights": [
-                "Cloud and On-Premises Monitoring Solutions in Distributed Systems",
-                "Peer-Review / Knowledge Sharing",
-                "Features Implementation / Product Demonstrations",
-                "Software Quality and Life Cycle Management",
-                "Issue and System Verification for Product Release",
-                "Technical Documentation and User Guides",
-                "Remote Technical Support / Investigation / Troubleshooting on Production Systems"
+                "Cloud and On-Premises Monitoring Solutions in Distributed Systems (Grafana, Fluent Bit, OpenTelemetry, Prometheus)",
+                "Peer-Review (git) / Knowledge Sharing (blogs, wikis, Confluence)",
+                "Features Implementation / Product Demonstrations (Docker, Kubernetes, Helm)",
+                "Software Quality and Life Cycle Management (Azure DevOps)",
+                "Issue and System Verification for Product Release (Azure DevOps)",
+                "Technical Documentation and User Guides (Zensical)",
+                "Remote Technical Support / Investigation / Troubleshooting on Production Systems (SSH, VNC, RDP)"
             ]
         },
         {
@@ -253,12 +255,12 @@
             "startDate": "2022-02-01",
             "endDate": "2024-01-31",
             "highlights": [
-                "Applications and Algorithms Development",
-                "Peer-Review / Knowledge Sharing",
-                "Software Quality and Life Cycle Management",
-                "Automated Testing in CI/CD Pipelines",
-                "Issue and System Verification for Product Release",
-                "Technical Documentation and User Guides",
+                "Applications and Algorithms Development (Python, .NET)",
+                "Peer-Review (git) / Knowledge Sharing (Zensical, Confluence)",
+                "Software Quality and Life Cycle Management (Azure DevOps)",
+                "Automated Testing in CI/CD Pipelines (Azure DevOps, PowerShell)",
+                "Issue and System Verification for Product Release (Azure DevOps)",
+                "Technical Documentation and User Guides (Zensical)",
                 "Safety and Compliance with Medical Regulations"
             ]
         },
@@ -271,10 +273,11 @@
             "startDate": "2016-11-01",
             "endDate": "2021-01-31",
             "highlights": [
-                "Research in Applied Physics",
-                "Scientific Computing",
+                "Research in Applied Physics and Development of Novel Data Acquisition Methods (shapr)",
+                "Scientific Computing and Data Analysis (Python, numpy, scipy, numba, matplotlib)",
+                "Web and Application Development (Qt, Flask, plotly)",
                 "Software Development Life Cycle Management (SDLC)",
-                "Source Control / Documentation / Testing / Packaging"
+                "Source Control (git, dvc) / Documentation (mkdocs, Sphinx) / Testing (pytest, hypothesis) / Packaging"
             ]
         },
         {
