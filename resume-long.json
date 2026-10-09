@@ -286,7 +286,7 @@
         {
             "summary": "Designing and implementing secure cloud and on-premises solutions to monitor distributed systems. Driving continuous improvements using open standards and best practices. Escalating, root cause analyzing and resolving software defects and performance issues. Peer-reviewing code to maintain quality and sharing knowledge across teams. Writing user needs, requirements, acceptance criteria, test cases, and technical documentation. Leading software verification activities during product releases to ensure quality and compliance with technical requirements. Supporting field engineers with software installations, patching, and upgrades. Investigating field issues, assistance requests (ARs), customer complaints, non-compliance (NC), and participating in post-mortem analysis.",
             "website": "https://cancercare.siemens-healthineers.com/",
-            "name": "Varian Medical Systems (aquired by Siemens Healthineers)",
+            "name": "Varian Medical Systems (acquired by Siemens Healthineers)",
             "location": "Dättwil, Switzerland",
             "position": "Software Engineer (Platform and Infrastructure)",
             "startDate": "2024-02-01",
@@ -386,7 +386,9 @@
             "startDate": "2019-08-27",
             "endDate": "2021-03-21",
             "description": "A pure-Python library to push forward scientific progress in ultrafast spectroscopy using pulse shaping techniques via spatial light modulators (SLMs).",
-            "highlights": [],
+            "highlights": [
+                "Based on: bokeh / colorlog / coverage / docopt / dvc / flit / hypothesis / json-tricks / lmfit / matplotlib / numpy / pillow / pre-commit / pyinstaller / pyqt5 / pyqtgraph / pytest / scipy / screeninfo / shiv / sphinx / sympy / tabulate"
+            ],
             "url": "http://github.com/StephenRoille/shapr"
         },
         {
@@ -394,7 +396,9 @@
             "startDate": "2019-10-30",
             "endDate": "2020-11-26",
             "description": "A pure-Python library to control the hardware of Andor cameras, spectrographs, and spectrometers. Developed to be integrated with the shapr library.",
-            "highlights": [],
+            "highlights": [
+                "Based on: flit / matplotlib / numpy / pillow / pre-commit / scipy / sphinx"
+            ],
             "url": "http://github.com/StephenRoille/andor"
         },
         {
@@ -402,7 +406,9 @@
             "startDate": "2019-04-03",
             "endDate": "2020-11-26",
             "description": "A pure-Python library to control the hardware of Avantes USB-2 spectrometers. Developed to be integrated with the shapr library.",
-            "highlights": [],
+            "highlights": [
+                "Based on: fire / flit / matplotlib / numpy / pre-commit / scipy"
+            ],
             "url": "http://github.com/StephenRoille/avantes"
         },
         {
@@ -410,7 +416,9 @@
             "startDate": "2020-03-08",
             "endDate": "2020-03-08",
             "description": "A pure-Python command line tool to generate changelogs (.md, .html) from the history of any git repository by following best practices (semantic versioning, keep a Changelog, conventional commit)",
-            "highlights": [],
+            "highlights": [
+                "Based on: docopt / flit / pre-commit / pyyaml / requests / sphinx / toml"
+            ],
             "url": "http://github.com/StephenRoille/git-conventional-changelog"
         },
         {
@@ -418,7 +426,9 @@
             "startDate": "2019-09-26",
             "endDate": "2019-12-09",
             "description": "A Python web application developed to open new ways to do spectroscopy.",
-            "highlights": [],
+            "highlights": [
+                "Based on: click / flask / jinja2 / lmfit / matplotlib / mongodb / numba / numpy / pillow / plotly / pymongo / pyyaml / redis / requests / scipy / sphinx / sqlalchemy / tikzplotlib / wtforms"
+            ],
             "url": "http://github.com/StephenRoille/module"
         }
     ]
