@@ -352,22 +352,45 @@
     ],
     "interests": [
         {
-            "name": "🏸 Playing Ball or Racket Sport, Running and Roller Skating"
+            "name": "👩🏻‍💻 Self-Improvement",
+            "keywords": [
+                "Homelabbing",
+                "Reading Books & Blogs",
+                "Technology",
+                "Open-Source Software",
+                "Python",
+                "AI"
+            ]
         },
         {
-            "name": "📚 Reading Books and Blogs"
+            "name": "⚽ Sports",
+            "keywords": [
+                "Football",
+                "Running",
+                "Roller Skating",
+                "Badminton",
+                "Padel",
+                "Squash",
+                "Tennis"
+            ]
         },
         {
-            "name": "🎧 Listening to Music and Podcasts"
+            "name": "🎮 Gaming",
+            "keywords": ["Video Games", "Board Games", "Card Games"]
         },
         {
-            "name": "👩🏻‍💻 Learning Open-Source Technology, Python and AI"
+            "name": "🎹 Music",
+            "keywords": ["EDM", "Progressive House", "Big Room", "Tech House"]
         },
         {
-            "name": "🎮 Playing Video Games and Board Games"
-        },
-        {
-            "name": "🍺 Drinking Coffee, Belgian/Craft Beers and Barrel-Aged Spirits"
+            "name": "🥃 Epicursim",
+            "keywords": [
+                "Food",
+                "Traveling",
+                "Coffee",
+                "Belgian & Craft Beers",
+                "Barrel-Aged Spirits"
+            ]
         }
     ],
     "languages": [
